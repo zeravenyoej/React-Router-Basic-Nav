@@ -1,3 +1,4 @@
+pull request = https://github.com/zeravenyoej/React-Router-Basic-Nav/pull/1
 # React Router Basic Nav
 
 Topics:
@@ -36,7 +37,7 @@ Topics:
 
 * Inside of `Navigation.js` `import { Link } from 'react-router-dom'`.
 * Declare the `to` as the href on `<Link>` and specify the correct routes for your app to navigate towards.
-* Head over to your app and start navigating. You should be able to see your URLS changing their paths as you go. Each path should display the proper component. 
+* Head over to your app and start navigating. You should be able to see your URLS changing their paths as you go. Each path should display the proper component.  
 
 ### Resources
 
